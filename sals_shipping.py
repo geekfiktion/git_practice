@@ -46,5 +46,5 @@ def best_ship_method(weight):
 #print(ground_shipping(8.4))
 #print(drone_shipping(1.5))
 
-print(best_ship_method(4.8))
-print(best_ship_method(41.5))
+best_ship_method(4.8)
+best_ship_method(41.5)
